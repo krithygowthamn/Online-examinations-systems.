@@ -1,6 +1,6 @@
 # Online-examinations-systems.
-# Reg No:
-# Name:
+# Reg No:212222220013
+# Name: Gowtham N
 # Date:
 
 
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+![software image 2](https://github.com/user-attachments/assets/c2d1bdfe-d632-4d46-a041-6beed36fd491)
 
 
 
@@ -56,6 +57,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+![software image](https://github.com/user-attachments/assets/ceafee23-7e91-4dbd-b6e8-9abc6037442e)
 
 
 
