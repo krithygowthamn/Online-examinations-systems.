@@ -1,7 +1,7 @@
 # Online-examinations-systems.
 # Reg No:212222220013
 # Name:Gowtham N
-# Date:
+# Date:14-11-2024
 
 
 # AIM:
@@ -60,15 +60,6 @@ Create detailed charts that…
 ![software image](https://github.com/user-attachments/assets/26bd2fe9-7be1-4ff2-86d9-afba19432ec6)
 
 
-# COMMUNICTION DIAGRAM:
-
-A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
-
-Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
-
-
-
-
 # PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
@@ -77,6 +68,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+![software pack](https://github.com/user-attachments/assets/478b45fe-0d40-4bc6-8b14-878f4626e3e7)
 
 
 
@@ -95,6 +87,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+![software act](https://github.com/user-attachments/assets/16b0c77c-900e-48e8-b7dc-7be49af85f92)
 
 
 
@@ -117,6 +110,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+![software seq](https://github.com/user-attachments/assets/685b0a1d-b7ca-4523-82ef-0c4afe2fec53)
 
 
 
